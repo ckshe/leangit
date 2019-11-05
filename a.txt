@@ -1,1 +1,1 @@
-a - branck
+a - branck -- checkout-- reset HEAD 
